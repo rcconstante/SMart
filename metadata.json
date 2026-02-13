@@ -1,0 +1,5 @@
+{
+  "name": "DLSUD Smart Classroom",
+  "description": "An AI-powered smart classroom simulation framework integrating Computer Vision, IoT data visualization, and a conversational AI assistant.",
+  "requestFramePermissions": []
+}
